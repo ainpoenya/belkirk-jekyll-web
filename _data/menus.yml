@@ -1,1 +1,5 @@
---- {}
+---
+navigation:
+- url: http://google.com
+  weight: 6
+  title: Registration
