@@ -1,6 +1,6 @@
 ---
 title: New Industry Partner-(copy)
-date: 2017-08-01T09:09:13.000+00:00
+date: 2017-11-10 09:09:13 +0000
 related_posts: []
 sub_heading: Maecenas faucibus mollis interdum. Vivamus sagittis lacus
 banner_image: "/uploads/2018/02/17/bridge.jpg"
